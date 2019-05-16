@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A Gatsby source plugin to load resources from the Spree API",
   "author": "Alyreza Mahmoudy <Alyreza.mahmoudy@gmail.com>",
+  "homepage": "https://github.com/ALYREZA/gatsby-source-spree",
+  "repository": "https://github.com/ALYREZA/gatsby-source-spree",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
