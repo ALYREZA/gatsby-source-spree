@@ -31,8 +31,6 @@ module.exports = {
 
 Once the plugin is configured, the query is available in GraphQL: `allSpreeProducts` 
 
-Here’s an example query to load 10 images:
-
 ```gql
 {
   allSpreeProducts{
