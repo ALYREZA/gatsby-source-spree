@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-source-spree",
+  "version": "1.0.0",
+  "description": "A Gatsby source plugin to load resources from the Spree API",
+  "author": "Alyreza Mahmoudy <Alyreza.mahmoudy@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "spree",
+    "Alyreza",
+    "e-commerce",
+    "eCommerce"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@spree/storefront-api-v2-sdk": "^2.2.0"
+  }
+}
