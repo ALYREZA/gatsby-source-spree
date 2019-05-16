@@ -5,8 +5,11 @@ This source plugin for Gatsby will make products from [Spree](https://spreecomme
 ## Installation
 
 ```sh
-# Install the plugin
+# Install the plugin with yarn
 yarn add gatsby-source-spree
+
+# or with npm
+npm install gatsby-source-spree --save
 ```
 
 In `gatsby-config.js`:
